@@ -15,7 +15,7 @@ In questo documento verranno mostrate due macrocategorie di cyber-attacchi:
 
 Per ripetere gli attacchi mostrati in questo video avremo bisogno di:
 - Un hypervisor su cui far girare due VM (come VMWare Workstation Player, gratuitamente scaricabile per usi personali [da qui](https://www.vmware.com/it/products/workstation-player.html))
-- Un sistema operativo server (come [Ubuntu Server](https://ubuntu.com/download/server) )
+- Un sistema operativo server (come [Ubuntu Server](https://ubuntu.com/download/server))
 - Un sistema operativo client (come [Kali Linux](https://www.kali.org/))
 
 **Una volta scaricato ed installato l'hypervisor sul sistema host, procediamo a creare una macchina virtuale che corrisponderà con il nostro target**
