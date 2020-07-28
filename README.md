@@ -191,3 +191,6 @@ Procediamo dunque ad effettuare il download del file di index.php tramite la bac
 Dalla backdoor aggiorniamo il file index.php con quello appena modificato ed aggiorniamo la pagina per verificare che la modifica apportata sia funzionante.\
 \
 ***Pwn completato con successo!***
+
+-------------
+Dimostrazione disponibile su https://youtu.be/Nyz-cLOK89A
