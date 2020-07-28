@@ -193,4 +193,4 @@ Dalla backdoor aggiorniamo il file index.php con quello appena modificato ed agg
 ***Pwn completato con successo!***
 
 -------------
-Dimostrazione disponibile su https://youtu.be/Nyz-cLOK89A
+Dimostrazione disponibile in /demonstration
