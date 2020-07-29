@@ -4,7 +4,7 @@ In questo documento verranno mostrate due macrocategorie di cyber-attacchi:\
 - Attacco SYN-flood
 - Attacco slowloris
 
-**Il secondo** è un attacco APT, nel quale saranno trattati i seguenti attack vectors:
+**Il secondo** è un attacco APT, nel quale saranno trattati i seguenti attacchi:
 - Local file inclusion
 - SQL injection (nalla parte di authentication bypass)
 - Unrestricted file upload (nella fase di upload della backdoor)
@@ -114,14 +114,14 @@ Per l'attacco **Slowloris**, invece, delle possibili mitigazioni sono:
 
 ### APT (Advanced persistent threat, minaccia avanzata persistente):
 Un attacco di questo tipo, a differenza di un DoS, ha l'obiettivo di rimanere nascosto per il più lungo periodo di tempo possibile al fine di trovare informazioni riservate.
-Generalmente un APT è un attacco di tipo composto da diversi attack vector strutturati in un modo ben preciso.
+Generalmente un APT è un attacco composto da diversi attacchi strutturati in un modo ben preciso.
 
 *Le fasi in cui è diviso un APT sono le seguenti:* \
 ![fasi di un attacco APT](https://upload.wikimedia.org/wikipedia/commons/7/73/Advanced_persistent_threat_lifecycle.jpg)
 
 Un esempio di come è strutturato un APT è il seguente:
 1) Definizione dell'obiettivo che si vuole raggiungere
-2) Studio della superficie d'attacco (sia informatica che "fisica")
+2) Studio della superficie d'attacco
 3) Individuazione di informazioni più o meno riservate che ci possano facilitare l'infiltrazione all'interno della società/organizzazione target (sia mediante tool di OSINT come, ad esempio, [MALTEGO](https://www.maltego.com/), sia attraverso tecniche di Social Engineering)
 4) Infiltrazione iniziale nel sistema (installando ad esempio una backdoor)
 5) Priviledge Escalation
