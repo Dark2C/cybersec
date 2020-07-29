@@ -1,5 +1,5 @@
 # Esame di Cybersecurity
-In questo documento verranno mostrate due macrocategorie di cyber-attacchi:
+In questo documento verranno mostrate due macrocategorie di cyber-attacchi:\
 **Il primo** è un attacco di tipo DoS, a sua volta suddiviso in:
 - Attacco SYN-flood
 - Attacco slowloris
